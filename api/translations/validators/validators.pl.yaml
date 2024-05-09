@@ -1,0 +1,2 @@
+name.len.min: 'Nazwa jest zbyt krótka. Musi mieć przynajmniej {{ string }} znaków.'
+name.len.max: 'Nazwa jest zbyt długa'. Nie może mieć więcej niż {{ string }} znaków.'

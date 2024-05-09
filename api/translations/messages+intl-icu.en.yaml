@@ -1,0 +1,4 @@
+name:
+    len:
+        min: 'The name is too short. It must be at least {{ string }} characters long.'
+        max: 'The name is too long. It must be no longer than {{ string }} characters.'
